@@ -33,5 +33,4 @@ const AddTask = ({ addTask }) => {
     </div>
   )
 }
-
 export default AddTask
